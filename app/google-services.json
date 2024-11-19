@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814182124623",
+    "project_id": "fir-medic",
+    "storage_bucket": "fir-medic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814182124623:android:232edbbfa62883f2c9ee3a",
+        "android_client_info": {
+          "package_name": "com.example.firebasemedic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKgaBMSAooqZvyU8KCuTnbBPyRtrHro1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
